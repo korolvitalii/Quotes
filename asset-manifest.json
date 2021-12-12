@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Task-3.-React/static/css/main.b1be0253.chunk.css",
+    "main.js": "/Task-3.-React/static/js/main.7f976e40.chunk.js",
+    "main.js.map": "/Task-3.-React/static/js/main.7f976e40.chunk.js.map",
+    "runtime-main.js": "/Task-3.-React/static/js/runtime-main.5d663c4d.js",
+    "runtime-main.js.map": "/Task-3.-React/static/js/runtime-main.5d663c4d.js.map",
+    "static/js/2.f0c76532.chunk.js": "/Task-3.-React/static/js/2.f0c76532.chunk.js",
+    "static/js/2.f0c76532.chunk.js.map": "/Task-3.-React/static/js/2.f0c76532.chunk.js.map",
+    "index.html": "/Task-3.-React/index.html",
+    "static/css/main.b1be0253.chunk.css.map": "/Task-3.-React/static/css/main.b1be0253.chunk.css.map",
+    "static/js/2.f0c76532.chunk.js.LICENSE.txt": "/Task-3.-React/static/js/2.f0c76532.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d663c4d.js",
+    "static/js/2.f0c76532.chunk.js",
+    "static/css/main.b1be0253.chunk.css",
+    "static/js/main.7f976e40.chunk.js"
+  ]
+}
